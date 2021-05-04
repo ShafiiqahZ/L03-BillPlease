@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">L03 Bill Please</string>
+    <string name="title">Calculate Bill Application</string>
+    <string name="amountText">Amount: </string>
+    <string name="numText">Num of Pax: </string>
+    <string name="toggleBtn1">NO SVS</string>
+    <string name="toggleBtn2">GST</string>
+    <string name="discountText">Additional Charges for Service Charge/GST(%): </string>
+    <string name="btn1">Cash</string>
+    <string name="btn2">PayNow</string>
+    <string name="splitBtn">Split</string>
+    <string name="resetBtn">Reset</string>
+    <string name="SVSdisabled">SVS</string>
+    <string name="SVSenabled">NO SVS</string>
+    <string name="GSTdisabled">NO GST</string>
+    <string name="GSTenabled">GST</string>
+    <string name="view1">Total Bill: $</string>
+    <string name="view2">Each pays: $</string>
+</resources>
